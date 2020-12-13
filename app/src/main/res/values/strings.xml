@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityUiPart1</string>
+    <string name="hello_text">Write a message here:</string>
+    <string name="enter">Enter</string>
+    <string name="delete">Delete</string>
+    <string name="message">Your message</string>
+    <string name="write_a_message">Write your message and type Enter</string>
+    <string name="your_message">Your message</string>
+</resources>
